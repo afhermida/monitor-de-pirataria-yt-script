@@ -1,0 +1,7 @@
+# Canais autorizados pelo titular dos direitos.
+# Prefira IDs, pois o nome exibido do canal pode mudar.
+# id:UCxxxxxxxxxxxxxxxxxxxxxx
+
+# Também é possível usar nomes exatos:
+# nome:Companhia das Letras
+# nome:Canal oficial do selo

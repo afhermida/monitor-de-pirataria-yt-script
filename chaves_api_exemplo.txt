@@ -1,0 +1,6 @@
+# EXEMPLO SOMENTE — substitua pelos valores reais em uma cópia local.
+# Não envie o arquivo real por e-mail, não o coloque no Git e restrinja as permissões.
+
+SUA_CHAVE_YOUTUBE_1
+SUA_CHAVE_YOUTUBE_2
+# SUA_CHAVE_YOUTUBE_3
